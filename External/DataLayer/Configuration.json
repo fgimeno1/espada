@@ -1,0 +1,8 @@
+{
+    "DB" : "MySQL",
+    "Enviroment" : "Production",
+    "User" : "dataScience",
+    "Pass" : "lbaEurQq6mjl",
+    "Host" : "164.132.112.198",
+    "Port" : 3306
+}
